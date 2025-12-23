@@ -1,0 +1,19 @@
+<Solution>
+  <Project Path="Day_09/Day_09.csproj" Id="922fab30-2023-418c-abd8-abcaaf581115" />
+  <Project Path="Day_09_a/Day_09_a.csproj" Id="1c4ca14c-f657-4980-af27-8e97f83b7368" />
+  <Project Path="Day_10/Day_10.csproj" Id="c9693148-fbb5-4cd3-83a8-30ff2a13a123" />
+  <Project Path="Day_10_a/Day_10_a.csproj" Id="94cb1ea7-3934-4bf7-9d1d-c78f78eee332" />
+  <Project Path="Day_11/Day_11.csproj" Id="d8ba5fc2-de90-4f17-8da8-63065ee6892a" />
+  <Project Path="Day_11_a/Day_11_a.csproj" Id="c5a77748-eeaf-4b82-889e-2e7dc7991007" />
+  <Project Path="Day_12/Day_12.csproj" Id="72cf4b90-dbd4-4da2-b3f3-f0de5f4ab223" />
+  <Project Path="Day_12_a/Day_12_a.csproj" Id="cb57eebc-7dd2-4fec-92da-22347ec75847" />
+  <Project Path="Day_13/Day_13.csproj" Id="eaa4f931-e4e1-43bb-b38c-61047f22321a" />
+  <Project Path="Day_13_a/Day_13_a.csproj" Id="048df8cb-876c-4c2e-9e5a-7fc9425b8e2a" />
+  <Project Path="Day_14/Day_14.csproj" Id="5d43c989-c030-4d19-863a-8c0a0d21f39b" />
+  <Project Path="Day_14_a/Day_14_a.csproj" Id="989c389b-4c18-4ace-8ada-0ee6df29c2d3" />
+  <Project Path="Day_15/Day_15.csproj" Id="b558d241-210b-488a-9744-8c46ac45fb9e" />
+  <Project Path="Day_15_a/Day_15_a.csproj" Id="ab25593c-cf11-46ee-8016-b004e9dac195" />
+  <Project Path="Day_16/Day_16.csproj" Id="a419458d-e94a-4792-9810-9936f7a8d2c1" />
+  <Project Path="Day_16_a/Day_16_a.csproj" Id="b8c5feaf-c479-49d5-848e-c30e8a13e151" />
+  <Project Path="Day_17/Day_17.csproj" Id="503b5902-74c6-4d4f-9ac6-cea697db34fb" />
+</Solution>
